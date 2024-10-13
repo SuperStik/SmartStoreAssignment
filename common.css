@@ -8,6 +8,10 @@ h1 {
 	font-size: 80px;
 	text-align: center;
 }
+h2 {
+	font-size: 60px;
+	margin-bottom: 5mm;
+}
 button {
 	font-size: 30px;
 	cursor: pointer;
@@ -15,7 +19,7 @@ button {
 button[disabled] {
 	cursor: not-allowed;
 }
-input, br {
+br, input, li, p {
 	font-size: 30px;
 }
 .center {
