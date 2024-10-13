@@ -13,3 +13,10 @@ h1 {
 input, button, br {
 	font-size: 30px;
 }
+
+.center {
+	display: flex;
+	align-items: center;
+	gap: 15px;
+	flex-direction: column;
+}
