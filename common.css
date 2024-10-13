@@ -1,7 +1,8 @@
 #container {
 	border-style: solid;
-	height: 960px;
-	width: 540px;
+	padding: 8px;
+	height: 944px;
+	width: 524px;
 }
 
 h1 {
