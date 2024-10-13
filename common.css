@@ -4,22 +4,20 @@ body {
 	height: 944px;
 	width: 524px;
 }
-
 h1 {
 	font-size: 80px;
 	text-align: center;
 }
-
 button {
 	font-size: 30px;
 	cursor: pointer;
 }
-
+button[disabled] {
+	cursor: not-allowed;
+}
 input, br {
 	font-size: 30px;
 }
-
-
 .center {
 	display: flex;
 	align-items: center;
